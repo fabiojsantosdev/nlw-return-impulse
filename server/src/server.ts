@@ -1,3 +1,9 @@
+//GET    = Buscar informações
+//POST   = Cadastrar informações
+//put    = Atualizar informações de uma entidade
+//PATCH  = Atualizar informação unica
+//DELETE = Deletar informação
+
 import express from 'express';
 import cors from 'cors';
 
